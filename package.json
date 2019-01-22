@@ -29,6 +29,11 @@
     "type": "git",
     "url": "git+https://github.com/IdanLoo/minapp-iconfont.git"
   },
+  "keywords": [
+    "小程序",
+    "iconfont",
+    "miniprogram"
+  ],
   "author": "Idan Loo <im@siwei.lu>",
   "license": "MIT",
   "devDependencies": {
