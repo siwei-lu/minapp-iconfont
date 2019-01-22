@@ -1,6 +1,6 @@
 {
   "name": "minapp-iconfont",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "小程序 iconfont 最佳实践",
   "main": "miniprogram_dist/index.js",
   "scripts": {
